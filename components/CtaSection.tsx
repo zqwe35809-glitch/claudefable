@@ -58,10 +58,12 @@ export default function CtaSection() {
               <ArrowUpRight className="h-4 w-4" aria-hidden="true" />
             </a>
             <a
-              href="#contact"
+              href="https://claude.ai"
+              target="_blank"
+              rel="noopener noreferrer"
               className="w-full sm:w-auto h-12 px-8 inline-flex items-center justify-center font-bold text-white hover:text-accent border border-white/20 hover:border-accent bg-transparent hover:bg-white/5 rounded-lg transition-all duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2"
             >
-              Contact Sales
+              Try Claude
             </a>
           </div>
 

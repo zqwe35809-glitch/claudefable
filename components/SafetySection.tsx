@@ -118,7 +118,7 @@ export default function SafetySection() {
                   style={{ transitionDelay: `${index * 100}ms` }}
                 >
                   <div className="w-10 h-10 rounded-full bg-green-50 flex items-center justify-center text-green-600 mb-4" aria-hidden="true">
-                    <IconComp className="h-5 w-5" />
+                    <IconComp className="h-5 w-5" aria-hidden="true" />
                   </div>
                   <h4 className="font-bold text-slate-950 text-base mb-2">
                     {domain.title}

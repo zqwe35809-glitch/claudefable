@@ -65,15 +65,15 @@ export default function PricingSection() {
             <div>
               <ul className="space-y-3 mb-8 border-t border-border-custom pt-6">
                 <li className="flex items-center gap-3 text-sm text-text-primary">
-                  <Check className="h-4 w-4 text-accent flex-shrink-0" />
+                  <Check className="h-4 w-4 text-accent flex-shrink-0" aria-hidden="true" />
                   <span>Prompt caching up to 90% off</span>
                 </li>
                 <li className="flex items-center gap-3 text-sm text-text-primary">
-                  <Check className="h-4 w-4 text-accent flex-shrink-0" />
+                  <Check className="h-4 w-4 text-accent flex-shrink-0" aria-hidden="true" />
                   <span>Sub-second time-to-first-token</span>
                 </li>
                 <li className="flex items-center gap-3 text-sm text-text-primary">
-                  <Check className="h-4 w-4 text-accent flex-shrink-0" />
+                  <Check className="h-4 w-4 text-accent flex-shrink-0" aria-hidden="true" />
                   <span>2,000 requests / min rate limit</span>
                 </li>
               </ul>
@@ -129,15 +129,15 @@ export default function PricingSection() {
             <div>
               <ul className="space-y-3 mb-8 border-t border-border-custom pt-6">
                 <li className="flex items-center gap-3 text-sm text-text-primary">
-                  <Check className="h-4 w-4 text-accent flex-shrink-0" />
+                  <Check className="h-4 w-4 text-accent flex-shrink-0" aria-hidden="true" />
                   <span>Guaranteed completion under 24h</span>
                 </li>
                 <li className="flex items-center gap-3 text-sm text-text-primary">
-                  <Check className="h-4 w-4 text-accent flex-shrink-0" />
+                  <Check className="h-4 w-4 text-accent flex-shrink-0" aria-hidden="true" />
                   <span>Flat 50% discount on standard rates</span>
                 </li>
                 <li className="flex items-center gap-3 text-sm text-text-primary">
-                  <Check className="h-4 w-4 text-accent flex-shrink-0" />
+                  <Check className="h-4 w-4 text-accent flex-shrink-0" aria-hidden="true" />
                   <span>Unlimited concurrent batch jobs</span>
                 </li>
               </ul>
@@ -187,15 +187,15 @@ export default function PricingSection() {
             <div>
               <ul className="space-y-3 mb-8 border-t border-border-custom pt-6">
                 <li className="flex items-center gap-3 text-sm text-text-primary">
-                  <Check className="h-4 w-4 text-accent flex-shrink-0" />
+                  <Check className="h-4 w-4 text-accent flex-shrink-0" aria-hidden="true" />
                   <span>Accessible in Claude.ai & Claude Code</span>
                 </li>
                 <li className="flex items-center gap-3 text-sm text-text-primary">
-                  <Check className="h-4 w-4 text-accent flex-shrink-0" />
+                  <Check className="h-4 w-4 text-accent flex-shrink-0" aria-hidden="true" />
                   <span>30-day safety data retention</span>
                 </li>
                 <li className="flex items-center gap-3 text-sm text-text-primary">
-                  <Check className="h-4 w-4 text-accent flex-shrink-0" />
+                  <Check className="h-4 w-4 text-accent flex-shrink-0" aria-hidden="true" />
                   <span>Admin billing console controls</span>
                 </li>
               </ul>
