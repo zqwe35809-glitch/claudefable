@@ -10,8 +10,7 @@ export default function HeroSection() {
       id="hero"
       className="relative min-h-[90vh] lg:min-h-screen pt-32 sm:pt-40 pb-20 flex items-center justify-center overflow-hidden bg-bg-primary"
     >
-      {/* Decorative Grid Dot Background */}
-      <div className="absolute inset-0 grid-dot-pattern pointer-events-none opacity-70" aria-hidden="true" />
+
 
       {/* Premium Amber Radial Glow Top-Right */}
       <div
