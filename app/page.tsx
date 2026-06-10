@@ -27,15 +27,11 @@ export async function generateMetadata(
   
   const keywords = [
     "Claude Fable 5",
-    "Anthropic Claude Fable",
-    "Mythos-class AI model",
-    "Claude Fable 5 API",
-    "best AI model 2026",
-    "Claude Fable benchmarks",
+    "Mythos-class AI",
     "SWE-Bench Pro",
     "AI coding model",
-    "long-context AI",
-    "Claude Fable pricing"
+    "Fable 5 API",
+    "long-context AI"
   ];
 
   return {
