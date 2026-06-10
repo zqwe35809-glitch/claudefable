@@ -61,7 +61,7 @@ export default function HeroSection() {
               href="#pricing"
               className="w-full sm:w-auto h-12 px-8 inline-flex items-center justify-center font-bold text-text-primary hover:text-accent border border-border-custom hover:border-accent bg-bg-secondary hover:bg-bg-primary rounded-lg transition-all duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2"
             >
-              Read the Docs
+              View Plans
             </a>
           </div>
 

@@ -39,14 +39,14 @@ export async function generateMetadata(
     description,
     keywords,
     alternates: {
-      canonical: "https://claude-fable.anthropic.com",
+      canonical: "https://claudefable.vercel.app/",
     },
     openGraph: {
       title,
       description,
       type: "website",
       siteName: "Claude Fable",
-      url: "https://claude-fable.anthropic.com",
+      url: "https://claudefable.vercel.app/",
     },
     twitter: {
       card: "summary_large_image",
