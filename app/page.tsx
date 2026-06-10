@@ -22,7 +22,7 @@ export async function generateMetadata(
   await props.params;
   await props.searchParams;
 
-  const title = "Claude Fable 5 — Anthropic's Most Capable AI Model | Mythos-Class";
+  const title = "Claude Fable 5 — Mythos-Class AI Model by Anthropic";
   const description = "Claude Fable 5 is Anthropic's Mythos-class AI model, featuring 80.3% on SWE-Bench Pro, a 1M+ token context window, and advanced autonomous agent power.";
   
   const keywords = [
