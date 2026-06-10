@@ -41,6 +41,9 @@ export async function generateMetadata(
     alternates: {
       canonical: "https://claudefable.vercel.app/",
     },
+    verification: {
+      google: "8kFDQByiDS2Io6lfLFUaJj3aTscWuNMm-Je6xY3OUJg",
+    },
     openGraph: {
       title,
       description,
